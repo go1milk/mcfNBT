@@ -1,0 +1,1 @@
+$data modify storage nbt:type data[-1].current set from $(nbt_type) $(target) $(path)
